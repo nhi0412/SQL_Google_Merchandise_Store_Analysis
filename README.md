@@ -472,8 +472,8 @@ The dataset presents a cohort analysis of user behavior from product view to add
 
 ## **6. Conclusion**
 
-- This project allowed me to explore the **marketing industry** and gain insights into the **customer journey** through e-commerce data analysis using **SQL tools in BigQuery**.
-- By leveraging **SQL queries**, I analyzed key metrics such as **bounce rates, transactions, revenue, visits, and purchases** to understand customer behavior patterns.
-- Using SQL to examine **traffic sources and their impact on sales** helped identify the most effective marketing channels for driving engagement and conversions.
-- With **optimized SQL queries**, businesses can efficiently allocate resources to high-performing channels and improve underperforming ones, leading to better marketing efficiency.
-- **SQL tools in BigQuery** enabled the extraction of valuable insights that support **strategic decision-making**, allowing businesses to refine operations, enhance customer experiences, and maximize revenue growth through **data-driven optimization**.
+- This project allowed me to explore the marketing industry and gain insights into the customer journey through e-commerce data analysis using SQL tools in BigQuery.
+- By leveraging SQL queries, I analyzed key metrics such as bounce rates, transactions, revenue, visits, and purchases to understand customer behavior patterns.
+- Using SQL to examine traffic sources and their impact on sales helped identify the most effective marketing channels for driving engagement and conversions.
+- With optimized SQL queries, businesses can efficiently allocate resources to high-performing channels and improve underperforming ones, leading to better marketing efficiency.
+- SQL tools in BigQuery enabled the extraction of valuable insights that support strategic decision-making, allowing businesses to refine operations, enhance customer experiences, and maximize revenue growth through data-driven optimization.
